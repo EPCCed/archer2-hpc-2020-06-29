@@ -14,7 +14,7 @@
 #  https://github.com/carpentries/workshop-template
 # and for instructor training events you should use:
 #  https://github.com/carpentries/training-template
-carpentry: "swc"
+carpentry: "cp"
 
 # This option is currently only needed for Data Carpentry workshops.
 # The value of the variable will be ignored for Software Carpentry and
@@ -38,7 +38,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "ARCHER2 HPC Carpentry"
 
 
 #------------------------------------------------------------
@@ -66,6 +66,8 @@ carpentries_site: "https://carpentries.org/"
 dc_site: "https://datacarpentry.org"
 example_repo: "https://github.com/carpentries/lesson-example"
 example_site: "https://carpentries.github.io/lesson-example"
+hpc_pages: "https://epcced.github.io"
+hpc_site: "https://hpc-carpentry.org"
 lc_site: "https://librarycarpentry.org/"
 swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
